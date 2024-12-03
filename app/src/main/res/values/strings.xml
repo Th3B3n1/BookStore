@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BookStore</string>
+    <string name="input_title">Title</string>
+    <string name="input_author">Author</string>
+    <string name="input_amount_of_pages">Amount of pages</string>
+    <string name="button_add_book">Add book</string>
+    <string name="button_delete">Delete</string>
+    <string name="button_back">Back</string>
+</resources>
